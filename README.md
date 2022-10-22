@@ -1,10 +1,6 @@
 <div id="header" align="center">
-    <img src="https://media1.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47qnd8c21fhuezcnq2i66n0vdqfr3lghseu7anvpmj&rid=giphy.gif&ct=g"
+    <img src="https://i.pinimg.com/originals/f0/12/19/f01219fec9356e1a94c4c2520049f446.gif"
         width="200" />
-    <h1 align="center"> Hi i'm Felipe !web developer¡ </h1>
-    <h3 align="center"> A passionate web fullstack developer from colombia i like leaning code</h3>
-
-    <a class="twitter" href="https://twitter.com/firefox">Twitter<span>(@firefox)</span></a>
 </div>
 
 
