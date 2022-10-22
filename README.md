@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Luis Felipe OJeda Narvaez
 #### i'm web developer
-![i'm web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![i'm web developer]("https://media1.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47qnd8c21fhuezcnq2i66n0vdqfr3lghseu7anvpmj&rid=giphy.gif&ct=g")
 
 I am currently studying systems engineering. I am passionate about technology and the world of developing user-interactive web applications with great emphasis on ux.
 
