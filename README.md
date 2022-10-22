@@ -1,6 +1,5 @@
 <div id="header" align="center">
-    <img src="https://i.pinimg.com/originals/f0/12/19/f01219fec9356e1a94c4c2520049f446.gif"
-        width="200" />
+    <img src="https://thumbs.gfycat.com/EnragedGoodEmeraldtreeskink-size_restricted.gif" />
 </div>
 
 
